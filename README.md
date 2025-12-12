@@ -11,7 +11,7 @@ At the vale, find [Mulin Snowbeard](<https://i.imgur.com/Bq2vaf6.jpeg>) and comp
 When both pre-quests are done, you will now see two new quests called [The Legend Comes To Life!](<https://database.turtle-wow.org/?quest=40782%3E>) and [Life Comes To The Legend!](<https://database.turtle-wow.org/?quest=40783%3E>)
 
 ### Locations:
-**[The Legend Comes To Life!](<https://database.turtle-wow.org/?quest=40782%3E)** 
+**[The Legend Comes To Life!](<https://database.turtle-wow.org/?quest=40782%3E>)** 
 * [Winter Patriarch ](<https://imgur.com/a/sJ0qw00>) Mulgore - 57, 94 (Head west along the road to get there)
 * [Ancient of Winter](<https://imgur.com/a/NSF34dA>) Winterspring - 55, 11
 * [Father Bear](<https://imgur.com/a/9E2eEBe>) Ashenvale - 30, 55
