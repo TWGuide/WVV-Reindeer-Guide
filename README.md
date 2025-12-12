@@ -1,4 +1,4 @@
-# Welcome the Winter Veil Vale - Reindeer Mount guide!
+# Winter Veil Vale - Reindeer Mount guide!
 
 This is a guide on how to obtain the [Winter Veil Reindeer](https://database.turtle-wow.org/?item=21044) mount.
 ### Click the blue texts! they are image and database links!
